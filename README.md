@@ -1,3 +1,22 @@
-### Marianny
+# Marianny
+-olá me chamo Marianny, mas pode me chamar de mary
 
-![](https://media.tenor.com/1-FBshJd4t8AAAAM/monkey-with-money-happy-withmoney.gif)
+-estou me desenvolvendo no alura
+
+-![alura](https://www.alura.com.br/)
+
+
+
+
+
+![](https://media.tenor.com/kh_cOjHuufEAAAAd/sponge-bob-sponge-bob-mail.gif)
+
+
+
+
+
+
+
+
+
+
